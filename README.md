@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LincolnKermit
+- 👀 I’m interested in Osint and CyberSec
+- 🌱 I’m currently learning Web and Penetration testing
+- 💞️ I’m looking to collaborate on somes Osint Project and useful projects such as somes bypasser
+- 📫 How to reach me : LincolnKermit@protonmail.com
