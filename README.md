@@ -1,4 +1,4 @@
-- ![](https://komarev.com/ghpvc/?username=LincolnKermit&color=green)
+![](https://komarev.com/ghpvc/?username=LincolnKermit&color=green)
 - 👋 Hi, I’m @LincolnKermit
 - 👀 I’m interested in Osint, CyberSec and prompt engineering  
 - 🌱 I’m currently learning Web and Penetration testing
