@@ -4,3 +4,4 @@
 - 💻 I'm also learning C and C++
 - 💞️ I’m looking to collaborate on somes Osint Project and useful projects such as somes bypasser
 - 📫 How to reach me : LincolnKermit@protonmail.com
+![](https://komarev.com/ghpvc/?username=LincolnKermit&color=green)
