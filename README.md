@@ -6,3 +6,5 @@
 - 💞️ I’m looking to collaborate on somes Osint Project and useful projects such as somes bypasser
 - 📫 How to reach me : LincolnKermit@protonmail.com
 
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LincolnKermit&theme=shadow_green&show_icons=true)
+
