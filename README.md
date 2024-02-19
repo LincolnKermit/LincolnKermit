@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=LincolnKermit&color=blue)
 - 👋 Hi, I’m @LincolnKermit
+- 🇫🇷 French Cyber-Security Analyst based in Paris
 - 👀 I’m interested in Osint, CyberSec and prompt engineering  
 - 🌱 I’m currently learning Web and Penetration testing
 - 💻 I'm also learning C++ and Rust
