@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LincolnKermit&theme=shadow_green&show_icons=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LincolnKermit?theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LincolnKermit&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🔗 Links
