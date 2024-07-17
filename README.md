@@ -3,7 +3,7 @@
 - 🇫🇷 French Cyber-Security Analyst based in Paris
 - 👀 I’m interested in Osint, CyberSec and prompt engineering  
 - 🌱 I’m currently learning Web and Penetration testing
-- 💻 I'm also learning C++ and Rust
+- 💻 I'm also learning C and Swift
 - 💞️ I’m looking to collaborate on somes Osint Project and useful projects such as somes bypasser
 - 🪐 Member of The North Republic Team : https://thenorthrepublic.com/@LincolnKermit
 - 📫 How to reach me : LincolnKermit@protonmail.com
