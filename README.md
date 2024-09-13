@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=LincolnKermit&color=blue)
 - 👋 Hi, I’m @LincolnKermit
 - 🇫🇷 French CS student based in Lyon.
 - 👀 I’m interested in OSINT, CyberSec, and related fields.
@@ -12,6 +11,9 @@
 
 
 
+## 🔗 Statistics
+![](https://komarev.com/ghpvc/?username=LincolnKermit&color=blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LincolnKermit&theme=shadow_green&show_icons=true)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thenorthrepublic.com/@lincolnkermit)
