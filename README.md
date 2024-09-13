@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=LincolnKermit&color=blue)
 - 👋 Hi, I’m @LincolnKermit
 - 🇫🇷 French CS student based in Lyon.
-- 👀 I’m interested in Osint, CyberSec and prompt engineering  
-- 🌱 I’m currently learning Web and Penetration testing
-- 💻 I'm also learning C and Swift
-- 💞️ I’m looking to collaborate on somes Osint Project and useful projects such as somes bypasser
-- 🪐 Member of The North Republic Team : https://thenorthrepublic.com/@LincolnKermit
+- 👀 I’m interested in OSINT, CyberSec, and related fields.
+- 🌱 I’m currently learning Web Development and Penetration Testing.
+- 💻 I'm also learning C and Swift.
+- 💞️ I’m looking to collaborate on some OSINT projects and useful tools such as bypassers.
+- 🪐 Member of The North Republic Team: https://thenorthrepublic.com/@LincolnKermit
 - 📫 How to reach me : LincolnKermit@protonmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LincolnKermit&theme=shadow_green&show_icons=true)
