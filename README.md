@@ -14,6 +14,9 @@
 ## 🔗 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LincolnKermit&theme=shadow_green&show_icons=true)
 
+## 🔗 Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnkermit&hide_progress=true)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thenorthrepublic.com/@lincolnkermit)
 
