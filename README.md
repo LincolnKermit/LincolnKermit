@@ -12,9 +12,9 @@
 
 
 ## 🔗 Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LincolnKermit&theme=shadow_green&show_icons=true)
+![LincolnKermit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnkermit&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))
 
-## 🔗 Statistics
+## 🔗 Languague
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnkermit&hide_progress=true)
 
 ## 🔗 Links
