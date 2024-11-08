@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Web Development and Penetration Testing.
 - 💻 I'm also learning C++ and Swift.
 - 💞️ I’m looking to collaborate on some OSINT projects and useful tools such as bypassers.
-- 🪐 Member of The North Republic Team: https://thenorthrepublic.com/@LincolnKermit
-- 📫 How to reach me : LincolnKermit@protonmail.com
+- 🪐 Founder of The North Republic Team: https://thenorthrepublic.com/@LincolnKermit
+- 📫 How to reach me : lincolnkermit@thenorthrepublic.com
 
 
 
