@@ -10,7 +10,7 @@
 - 📫 How to reach me : lincolnkermit@thenorthrepublic.com
 
 
-### Current project : ![Tunner App : Social Media for artists](https://tunner.divisiontwentyone.cloud/))
+### Current project : 🎵 [Tunner App : Social Media for artists](https://tunner.divisiontwentyone.cloud/))
 ### Current objective : Full Switch from Python to C++.
 
 
