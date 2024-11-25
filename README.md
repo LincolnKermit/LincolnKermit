@@ -9,8 +9,10 @@
 - 🪐 Founder of The North Republic Team: https://thenorthrepublic.com/@LincolnKermit
 - 📫 How to reach me : lincolnkermit@thenorthrepublic.com
 
+### Current project : Tunner App
 
-### Current project : 🎵 [Tunner App : Social Media for artists](https://tunner.divisiontwentyone.cloud/))
+<a href="https://tunner.divisiontwentyone.cloud/" target="_blank" style="text-decoration:none;"> <img src="https://tunner.divisiontwentyone.cloud/static/files-core/logo-tunner.ico" alt="Tunner Logo" width="50" style="vertical-align:middle; margin-right:10px;"> <span style="font-size: 1.5em; font-weight: bold; color: black;">Tunner App: Social Media for Artists</span> </a>
+
 ### Current objective : Full Switch from Python to C++.
 
 
