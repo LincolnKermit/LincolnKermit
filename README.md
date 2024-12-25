@@ -21,7 +21,7 @@
 ![LincolnKermit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnkermit&theme=dracula))
 
 ## 🔗 Languague
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnkermit&hide_progress=true&hide=javascript,html,css&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnkermit&layout=donut-vertical&hide=html,javascript,css&themes=dracula)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thenorthrepublic.com/@lincolnkermit)
