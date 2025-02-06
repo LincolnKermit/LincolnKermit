@@ -12,7 +12,7 @@
 
 💻 Exploring **C++** and **Swift**.  
 
-💞️ Looking to collaborate on **OSINT projects** and create useful tools such as bypassers.  
+💞️ Looking to collaborate on **OSINT projects** and create useful tools.  
 
 🪐 Founder of [The North Republic Team](https://thenorthrepublic.com/@lincolnkermit).  
 
