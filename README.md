@@ -34,7 +34,7 @@
 
 <a href="https://tunner.divisiontwentyone.cloud/" target="_blank" style="text-decoration:none;"> 
   <img src="https://tunner.divisiontwentyone.cloud/static/files-core/logo-tunner.ico" alt="Tunner Logo" width="50" style="vertical-align:middle; margin-right:10px;">
-  <span style="font-size: 1.5em; font-weight: bold; color: black;">Tunner App: Social Media for Artists</span>
+  <span style="font-size: 1.5em; font-weight: bold; color: black;">Tunner App: Social Media for Artists ( PAUSED )</span>
 </a>
 
 ---
