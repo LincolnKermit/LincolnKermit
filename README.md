@@ -41,7 +41,7 @@
 
 ## 🎯 Current Objective
 
-- Full Switch from Python to C++.
+- ?
 
 ---
 
