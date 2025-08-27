@@ -14,7 +14,7 @@
 
 💞️ Looking to collaborate on **OSINT projects** and create useful tools.  
 
-🪐 Founder of [The North Republic Team](https://thenorthrepublic.com/@lincolnkermit).  
+🪐 Founder of [The North Republic Team](https://ctftime.org/team/282774).  
 
 📫 Reach me at: [lincolnkermit@thenorthrepublic.com](mailto:lincolnkermit@thenorthrepublic.com)  
 
