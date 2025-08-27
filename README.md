@@ -41,7 +41,7 @@
 
 ## 🎯 Current Objective
 
-- ?
+- Create a mobile app with Flutter 📱
 
 ---
 
