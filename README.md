@@ -16,7 +16,7 @@
 
 🪐 Founder of [The North Republic Team](https://ctftime.org/team/282774).  
 
-📫 Reach me at: [lincolnkermit@thenorthrepublic.com](mailto:lincolnkermit@thenorthrepublic.com)  
+📫 Reach me at: [bGluY29sbmtlcm1pdEBwcm90b25tYWlsLmNvbQ==](mailto:bGluY29sbmtlcm1pdEBwcm90b25tYWlsLmNvbQ==)
 
 ---
 
