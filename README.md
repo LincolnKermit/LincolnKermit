@@ -10,7 +10,7 @@
 
 🌱 Currently learning **Web Development** and **Penetration Testing**.  
 
-💻 Exploring **C++** and **Dart**.  
+💻 Exploring **C++** and **Typescript**.  
 
 💞️ Looking to collaborate on **OSINT projects** and create useful tools.  
 
