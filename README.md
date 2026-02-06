@@ -47,9 +47,10 @@
 
 ## 📊 Statistics
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lincolnkermit&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&locale=en&rank_icon=percentile" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lincolnkermit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=html,javascript,css,makefile,cmake" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-pi-three-87.vercel.app/api?username=lincolnkermit&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&locale=en&rank_icon=percentile" height="150" />
+  <img src="https://github-readme-stats-pi-three-87.vercel.app/api/top-langs?username=lincolnkermit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=html,javascript,css,makefile,cmake" height="150" alt="languages graph"  />
 </div>
 
 ---
