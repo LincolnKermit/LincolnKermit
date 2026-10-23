@@ -4,7 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=LincolnKermit&color=blue&style=for-the-badge" alt="Profile Views">
 
-🇫🇷 French CS student based in Lyon.  
+🇫🇷 French CS student based in Lyon.
+
+📖 Currently at Lyon 1 University.  
 
 👀 Interested in **OSINT**, **CyberSec**, and related fields.  
 
